@@ -49,8 +49,6 @@ Find Relevant Office
           ↓
 Track Application
 
-## 👥 Team
-
 **Team Name:** AXION
 
 ### Team Members
