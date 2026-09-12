@@ -49,24 +49,4 @@ Find Relevant Office
           ↓
 Track Application
 
-**Team Name:** AXION
-
-### Team Members
-
-- **Aditya Velip** — Team Leader
-- **Flevon D'Souza**
-- **Milford De Souza**
-- **Aryan Nayak**
-
-## 🔗 Project Links
-
-### GitHub Repository
-
-https://github.com/Adityaaa-12/GovAssist
-
-### Live Demo
-
-https://gov-assist-ten.vercel.app/
-
-### Demo Video
 
