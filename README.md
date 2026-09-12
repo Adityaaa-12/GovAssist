@@ -1,10 +1,10 @@
 # GovAssist 🇮🇳
 
-### Know Before You Go.
+## Know Before You Go.
 
 GovAssist is a web-based government service preparation assistant designed to help citizens understand what they need before visiting a government office.
 
-It helps users explore government services, understand eligibility, follow the application procedure, prepare required documents, check their readiness, identify the relevant office, and track their application journey.
+It helps users explore government services, understand eligibility, follow application procedures, prepare required documents, check their readiness, identify the relevant office, and track their application journey.
 
 ---
 
@@ -48,3 +48,4 @@ Check Readiness
 Find Relevant Office
           ↓
 Track Application
+
