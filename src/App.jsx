@@ -1,6 +1,18 @@
 import { useEffect, useMemo, useState } from "react";
 import "./App.css";
 
+
+/*DEVELOPED BY TEAM AXION FOR BIT & BUILD 2026 INTERNATIONAL HACKATHON GOA ROUND
+
+TEAM MEMBERS:
+
+ADITYA VELIP -TEAM LEADER
+ARYAN NAYAK
+FLEVON D'SOUZA
+MILFORD DE'SOUZA
+
+*/
+
 /* =========================================================
    SERVICES
    ========================================================= */
