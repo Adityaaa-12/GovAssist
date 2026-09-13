@@ -80,6 +80,7 @@ The platform can also be developed into a mobile application and integrated with
 
 ## 🔮 Future Scope
 
+```
 Regional language support
 Voice assistance
 Verified government APIs
@@ -90,6 +91,7 @@ Accessibility improvements
 Personalized citizen assistance
 Government service updates
 Integration with official digital government platforms
+```
 
 ## 👥 Team
 
@@ -105,45 +107,14 @@ Team Members
 
 ### GitHub Repository
 
-PASTE YOUR GITHUB LINK HERE
+https://github.com/Adityaaa-12/GovAssist
 
 ## Live Demo -Vercel
 
-PASTE YOUR VERCEL LINK HERE
+https://gov-assist-ten.vercel.app/
 
 ## Demo Video
 
-YOUR_DEMO_VIDEO_LINK
-
-
-
-
-
-
-
-
-
-
-
-**Team Name:** AXION
-
-### Team Members
-
-- **Aditya Velip** — Team Leader
-- **Flevon D'Souza**
-- **Milford De Souza**
-- **Aryan Nayak**
-
-
-
-### GitHub Repository
-
-https://github.com/Adityaaa-12/GovAssist
-
-### Live Demo
-
-https://gov-assist-ten.vercel.app/
-
-### Demo Video
-
 https://drive.google.com/file/d/1JdmRvSoFxz3VFb9o8YDQylR0yoT_ILme/view
+
+
