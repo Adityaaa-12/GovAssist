@@ -49,6 +49,81 @@ Find Relevant Office
           ↓
 Track Application
 ```
+## 🎯 Hackathon
+
+Developed for:
+
+Bit N Build Hackathon 2026
+
+Track
+
+JAN JEEVAN — Technology for Everyday Life & Real-World Indian Challenges
+
+## 🌍 Impact
+
+GovAssist aims to help citizens:
+
+Reduce unnecessary visits to government offices
+Avoid missing documents
+Save time and travel costs
+Understand government procedures more easily
+Prepare before visiting an office
+Reduce repeated visits caused by incomplete preparation
+
+## 📈 Feasibility & Scalability
+
+GovAssist can be expanded to support more government services, regions, languages, and citizens.
+
+Future integration with verified government APIs and official data sources can help provide more accurate and real-time information.
+
+The platform can also be developed into a mobile application and integrated with other digital government services.
+
+## 🔮 Future Scope
+
+Regional language support
+Voice assistance
+Verified government APIs
+Real-time application tracking
+Mobile application
+More government services
+Accessibility improvements
+Personalized citizen assistance
+Government service updates
+Integration with official digital government platforms
+
+## 👥 Team
+
+**Team Name:** AXION
+
+Team Members
+- **Aditya Velip** — Team Leader
+- **Flevon D'Souza**
+- **Milford De Souza**
+- **Aryan Nayak**
+
+## 🔗 Project Links
+
+### GitHub Repository
+
+PASTE YOUR GITHUB LINK HERE
+
+## Live Demo -Vercel
+
+PASTE YOUR VERCEL LINK HERE
+
+## Demo Video
+
+YOUR_DEMO_VIDEO_LINK
+
+
+
+
+
+
+
+
+
+
 
 **Team Name:** AXION
 
@@ -59,7 +134,7 @@ Track Application
 - **Milford De Souza**
 - **Aryan Nayak**
 
-## 🔗 Project Links
+
 
 ### GitHub Repository
 
